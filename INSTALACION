@@ -1,0 +1,17 @@
+INSTALACION DE SIMRIESGO (Excel para Windows)
+
+1. Descargue SimRiesgo.xlam y guardelo en una carpeta fija, por ejemplo C:\SimRiesgo
+2. Clic derecho sobre el archivo > Propiedades > marque "Desbloquear" > Aceptar
+3. Abra Excel > Archivo > Opciones > Complementos
+4. Abajo, en "Administrar", elija "Complementos de Excel" > Ir...
+5. Examinar... > seleccione SimRiesgo.xlam > Aceptar
+6. Listo: aparece la pestana SimRiesgo en la cinta.
+
+INSTALLING SIMRIESGO (Excel for Windows)
+
+1. Download SimRiesgo.xlam and save it in a permanent folder, e.g. C:\SimRiesgo
+2. Right-click the file > Properties > check "Unblock" > OK
+3. Open Excel > File > Options > Add-ins
+4. At the bottom, next to "Manage", choose "Excel Add-ins" > Go...
+5. Browse... > select SimRiesgo.xlam > OK
+6. Done: the SimRiesgo tab appears on the ribbon.
